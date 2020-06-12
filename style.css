@@ -1,0 +1,7 @@
+.text {
+    margin: auto;
+    width : 400px;
+    height: 200px;
+    text-align: center;
+    border: 1px solid black
+};
